@@ -6,6 +6,6 @@
   <li><a href="https://drive.google.com/file/d/1XuiLjYfWXBAUacz1o21WgfXg795sg98w/view?usp=drive_link">Test-cases for the main page</a></li>
   <li><a href="https://drive.google.com/file/d/1rdNMSlKhn5O0ClohlDB8IrYxWea40KHD/view?usp=sharing">Test-cases for the shopping cart page</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1S0gkhPH7zynSfJhLcN89D1XJSaRVJGr2/edit?usp=sharing&ouid=111268555705838837986&rtpof=true&sd=true">Bug-reports</a></li>
-  <img align = "right" src="https://media0.giphy.com/media/1gbQIL4a58K10zDUqs/giphy.gif?cid=ecf05e47mtzc0jchdlqyfkk91hz2zh3ew7i3d2qcgt1tny7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Картинка">
+  <img align = "right" src="https://media0.giphy.com/media/1gbQIL4a58K10zDUqs/giphy.gif?cid=ecf05e47mtzc0jchdlqyfkk91hz2zh3ew7i3d2qcgt1tny7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Картинка" height=200>
   
 </ul>
